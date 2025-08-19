@@ -1,0 +1,1 @@
+Recentally joined Ed Donner's course from Udemy LLM Engineering: Master AI, Large Language Models & Agents. Exploring and Learning from it.
